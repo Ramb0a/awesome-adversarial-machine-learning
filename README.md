@@ -24,6 +24,8 @@
 
 (2017) [Adversarial attacks on neural network policies](https://arxiv.org/abs/1702.02284)
 
+(2017) [Analysis of classifiers’ robustness to adversarial perturbations](https://link.springer.com/article/10.1007%2Fs10994-017-5663-3)
+
 (2017) [Tactics of Adversarial Attacks on Deep Reinforcement Learning Agents](https://arxiv.org/abs/1703.06748)
 
 (2017) [Delving into adversarial attacks on deep policies](https://arxiv.org/abs/1705.06452)
