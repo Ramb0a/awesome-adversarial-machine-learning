@@ -2,9 +2,19 @@
 
 What is Adversarial Machine Learning? 
 
+> An adversarial example is an input to a machine learning model that is intentionally designed by an attacker to fool the model into producing an incorrect output. [source](http://www.cleverhans.io/security/privacy/ml/2017/02/15/why-attacking-machine-learning-is-easier-than-defending-it.html)
+
 ![Adversary Image 1](adversary01.png)
 
 ![Adversary Image 2](adversary02.png)
+
+> So far, it is much easier to design tricks like this that fool a model than it is to design models that can’t be fooled.  [source](http://www.cleverhans.io/security/privacy/ml/2017/02/15/why-attacking-machine-learning-is-easier-than-defending-it.html)
+
+> Adversarial examples are hard to defend against because it is hard to construct a theoretical model of the adversarial example crafting process. Adversarial examples are solutions to an optimization problem that is non-linear and non-convex for many ML models, including neural networks. Because we don’t have good theoretical tools for describing the solutions to these complicated optimization problems, it is very hard to make any kind of theoretical argument that a defense will rule out a set of adversarial examples.  [source](http://www.cleverhans.io/security/privacy/ml/2017/02/15/why-attacking-machine-learning-is-easier-than-defending-it.html)
+
+> From another point of view, adversarial examples are hard to defend against because they require machine learning models to produce good outputs for every possible input. Most of the time, machine learning models work very well but only work on a very small amount of all the many possible inputs they might encounter.  [source](http://www.cleverhans.io/security/privacy/ml/2017/02/15/why-attacking-machine-learning-is-easier-than-defending-it.html)
+
+> Because of the massive amount of possible inputs, it is very hard to design a defense that is truly adaptive.  [source](http://www.cleverhans.io/security/privacy/ml/2017/02/15/why-attacking-machine-learning-is-easier-than-defending-it.html)
 
 
 # References 
