@@ -4,6 +4,8 @@ What is Adversarial Machine Learning?
 
 > An adversarial example is an input to a machine learning model that is intentionally designed by an attacker to fool the model into producing an incorrect output. [source](http://www.cleverhans.io/security/privacy/ml/2017/02/15/why-attacking-machine-learning-is-easier-than-defending-it.html)
 
+For example start with an image - add a perterbed image and fool the 
+
 ![Adversary Image 1](adversary01.png)
 
 ![Adversary Image 2](adversary02.png)
