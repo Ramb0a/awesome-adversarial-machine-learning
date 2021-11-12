@@ -51,3 +51,5 @@
 (2015) [Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images](https://arxiv.org/abs/1412.1897)
 
 (2014) [Intriguing properties of neural networks](https://arxiv.org/abs/1312.6199)
+
+(2011) [Adversarial Machine Learning](https://people.eecs.berkeley.edu/~tygar/papers/SML2/Adversarial_AISEC.pdf)
