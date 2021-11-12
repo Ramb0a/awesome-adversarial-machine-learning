@@ -10,9 +10,11 @@
 
 (2018) [Wild Patterns: Ten Years After the Rise of Adversarial Machine Learning](https://arxiv.org/abs/1712.03141)
 
+(2017) [Adversarial Examples Are Not Easily Detected: Bypassing Ten Detection Methods](https://arxiv.org/abs/1705.07263)
+
 (2017) [Delving into Transferable Adversarial Examples and Black-box Attacks](https://arxiv.org/abs/1611.02770)
 
-(2017)  [Adversarial Examples In The Physical World](https://arxiv.org/pdf/1607.02533v3.pdf)
+(2017) [Adversarial Examples In The Physical World](https://arxiv.org/pdf/1607.02533v3.pdf)
 
 (2017) [Towards Evaluating the Robustness of Neural Networks](https://arxiv.org/abs/1608.04644)
 
