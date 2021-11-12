@@ -1,5 +1,10 @@
 # Awesome Adversarial ML  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+What is Adversarial Machine Learning? 
+
+
+
+
 # References 
 
 (2018) [Motivating the Rules of the Game for Adversarial Example Research](https://arxiv.org/abs/1807.06732)
