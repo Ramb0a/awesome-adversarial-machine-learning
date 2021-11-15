@@ -18,6 +18,9 @@ For example start with an image - add a perterbed image and fool the model into 
 
 > Because of the massive amount of possible inputs, it is very hard to design a defense that is truly adaptive.  [source](http://www.cleverhans.io/security/privacy/ml/2017/02/15/why-attacking-machine-learning-is-easier-than-defending-it.html)
 
+# Resources
+
+[Volkwagen: The Scandal Explained](https://www.bbc.com/news/business-34324772) 
 
 # References 
 
